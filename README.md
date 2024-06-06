@@ -17,6 +17,9 @@ Before you run the index.php, you must do :
 
 
 
-
-![MVNO Page 9Page 2](https://github.com/AlekHesa/Digitalie_Digital-Printing/assets/91420580/47393b18-9549-4ca3-a3ee-bd606820be2f)
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
   
